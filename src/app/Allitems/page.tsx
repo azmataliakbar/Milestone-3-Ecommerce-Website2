@@ -1,4 +1,4 @@
-"use client"
+
 
 import Allitems from '@/app/components/Allitems';
 
